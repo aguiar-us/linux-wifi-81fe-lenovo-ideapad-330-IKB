@@ -6,6 +6,9 @@
 #
 # [user@machine]: (~/linux-wifi-81fe-lenovo-ideapad-330-IKB) $ chmod +x script.sh
 
+# Creating backup folder
+mkdir backup
+
 # Updating the system
 sudo apt update -y && sudo apt-get update -y
 
